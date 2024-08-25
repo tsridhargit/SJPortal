@@ -1,0 +1,2 @@
+# SJPortal
+Journal Portal
